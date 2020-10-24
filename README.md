@@ -1,16 +1,30 @@
-# web_services
+Lectura de web services + búsqueda
 
-Lectura de Webservices
+ Universidad de las Américas
+ 
+ Materia: ITIN4210-4471 SEMINARIO DE SISTEMAS
+ 
+ Nombre: Andrea Armas
+ 
+ Contacto: andrea.armas.vargas@udla.edu.ec
 
-## Getting Started
+Descripcion:
+ - App desarrollada con Flutter, tiene la funcionalidad de recuperar datos desde una API REST en línea de uso gratuito 
+   acerca de países hispanohablantes, adicionalmente tiene una función de búsqueda por nombre de país.
 
-This project is a starting point for a Flutter application.
+Git Hub: 
+  - https://github.com/AndreaArmas/ITIN4210-4471-SEMINARIO-DE-SISTEMAS_AppWebServices
 
-A few resources to get you started if this is your first Flutter project:
+Herramientas:
+  - Android Studio
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Dependecias:
+  - https://pub.dev/packages/http
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Documentación de Flutter:
+  - https://flutter.dev/docs
+
+Se recomienda ver: 
+  - https://www.youtube.com/watch?v=Fo04xk9gIFo
+  - https://www.youtube.com/watch?v=EHt-QlGUoqY
+	
